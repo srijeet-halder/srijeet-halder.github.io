@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor of Construction Management, Kennesaw State University
 
 profile:
   align: right
-  image: headshot_full.png
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>470-578-7089</p>
+    <p>shalder@kennesaw.edu</p>
+    <p>Kennesaw State University</p>
+    <p>1000 Chastain Road</p>
+    <p>Kennesaw, GA 30144</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Srijeet Halder is an Assistant Professor of Construction Management at Kennesaw State University, where he began in January 2025. He earned his Ph.D. in Environmental Design and Planning with a focus on Construction Robotics from Virginia Tech in 2023, where he was recognized with the Outstanding PhD Student Building Construction Award. He also holds a Master of Engineering in Computer Science with a specialization in data analytics and artificial intelligence from Virginia Tech, and a Master of Technology in Construction Engineering and Management from the Indian Institute of Technology, Delhi.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dr. Halder's research focuses on construction robotics, cyber-physical systems, and human-computer interaction in the built environment, with particular emphasis on developing human-centered technologies for construction inspection and monitoring. His work has been published in leading journals including the *Journal of Construction Engineering and Management*, *Journal of Human-Computer Interaction*, *Applied Sciences*, and the *Journal of Building Engineering*, and he has presented his work at numerous national and international conferences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining Kennesaw State University, Dr. Halder served as an Assistant Professor at Appalachian State University and at the RICS School of Built Environment, Amity University in Mumbai, India. He brings extensive industry experience from his work as a Senior Engineer at L&T Construction, where he was involved in large-scale industrial projects. Dr. Halder is committed to integrating cutting-edge research with practical applications in the classroom, preparing students to become leaders in the evolving construction industry.

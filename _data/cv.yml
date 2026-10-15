@@ -88,8 +88,10 @@ cv:
         location: Blacksburg, VA, USA
         studyType: Ph.D., Environmental Design and Planning
         area: Building Construction
+        start_date: 2020
+        end_date: 2023
         highlights:
-          - "Completed July 2023. GPA: 4.0/4.0"
+          - "GPA: 4.0/4.0"
           - "Dissertation: Human Interactions with Robotic Cyber-Physical Systems (CPS) for Facilitating Construction Progress Monitoring"
           - "Committee: Dr. Kereshmeh Afsari (chair), Dr. Georg Reichard, Dr. Abiola Akanmu, and Dr. Alireza Shojaei"
           - "Honors: Outstanding PhD Student Building Construction Award"
@@ -98,24 +100,28 @@ cv:
         location: Blacksburg, VA, USA
         studyType: M.Eng., Computer Science (simultaneous degree)
         area: Data Analytics and Artificial Intelligence
+        start_date: 2021
+        end_date: 2023
         highlights:
-          - "Completed May 2023. GPA: 3.98/4.0"
+          - "GPA: 3.98/4.0"
           - "Honors: Student Highlight by Center for Human-Computer Interaction (CHCI)"
 
       - institution: Indian Institute of Technology, Delhi
         location: Delhi, India
         studyType: M.Tech.
         area: Construction Engineering and Management
+        start_date: 2013
+        end_date: 2015
         highlights:
-          - Completed June 2015
           - "Thesis: Modelling of Thermal Stresses in Hydrating Cement Concrete and Estimating Cracking Risk"
 
       - institution: Delhi College of Engineering
         location: Delhi, India
         studyType: B.E.
         area: Civil Engineering
+        start_date: 2009
+        end_date: 2013
         highlights:
-          - Completed July 2013
           - "Thesis: Comparative Analysis of Concrete-Filled Steel Tubes with regular concrete and steel elements"
 
     Academic Interests:
